@@ -1,0 +1,2 @@
+export const INPUT_TEXT_CHANGE = "TEXT_CHANGE";
+export const ADD_SELECTED_MOVIE = "ADD_SELECTED_MOVIE";
